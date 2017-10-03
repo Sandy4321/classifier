@@ -12,3 +12,5 @@ The first layers of the Neural Network that receive an input signal are called c
 # Accuracy achieved using this model : 81%.
 
 If you want to see the model in action(training) : https://youtu.be/AUxc8GdrL5U 
+
+Find the code in -  model.py
